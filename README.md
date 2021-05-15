@@ -5,10 +5,12 @@ https://docs.cadexchanger.com/web-toolkit/index.html
 ## Installation
 
 npm i https://github.com/stolbov-stanislav/cad-exchanger-web-toolkit.git
+OR https://docs.cadexchanger.com/web-toolkit/advanced-topics-packaging.html
 
 ## Usage
 
 import cadex from 'cad-exchanger-web-toolkit';
+OR /* global cadex */ IF USING SCRIPT TAG FROM https://docs.cadexchanger.com/web-toolkit/advanced-topics-packaging.html
 
 ## Contributing
 
