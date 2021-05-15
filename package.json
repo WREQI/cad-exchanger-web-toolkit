@@ -1,0 +1,19 @@
+{
+  "name": "cad-exchanger-web-toolkit",
+  "version": "1.0.0",
+  "description": "https://docs.cadexchanger.com/web-toolkit/index.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stolbov-stanislav/cad-exchanger-web-toolkit.git"
+  },
+  "author": "CADEX Ltd <support@cadexchanger.com> (https://cadexchanger.com/)",
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/stolbov-stanislav/cad-exchanger-web-toolkit/issues"
+  },
+  "homepage": "https://github.com/stolbov-stanislav/cad-exchanger-web-toolkit#readme"
+}
